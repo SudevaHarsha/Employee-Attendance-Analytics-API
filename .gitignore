@@ -1,0 +1,22 @@
+# Secrets / local config
+.env
+
+# Python virtualenv & artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Personal, non-submission notes
+PLAN.md
+ASSIGNMENT_BRIEF.md
+
+# Starter backup
+app/main.py.orig
+
+# Manual API test aid
+postman/
+
+# Local test suite (not part of submission)
+tests/
+pytest.ini
